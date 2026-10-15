@@ -4,7 +4,7 @@ Submitted by: **Yussuf Kegne**
 
 **Flixster+** is a movie browsing app that allows users to browse popular movies and TV shows and tap any of them to see more details.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 

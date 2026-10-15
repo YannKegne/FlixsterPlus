@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flixster+</string>
+    <string name="section_tv">Popular TV Shows</string>
+    <string name="section_movies">Popular Movies</string>
+    <string name="poster_description">Poster</string>
+    <string name="backdrop_description">Backdrop image</string>
+    <string name="rating_format">★ %1$s  ·  %2$s</string>
+    <string name="star_rating">★ %1$s</string>
+    <string name="rating_detail">★ %1$s / 10  (%2$d votes)</string>
+    <string name="released">Released: %1$s</string>
+    <string name="first_aired">First aired: %1$s</string>
+    <string name="unknown">Unknown</string>
+    <string name="type_movie">MOVIE</string>
+    <string name="type_tv">TV SHOW</string>
+    <string name="overview">Overview</string>
+    <string name="no_overview">No overview available.</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading">Couldn\'t load movies. Check your internet connection and API key.</string>
+    <string name="error_missing_key">No TMDB API key found.\n\nAdd TMDB_API_KEY=your_key to local.properties, then Sync and Run again.</string>
+</resources>
